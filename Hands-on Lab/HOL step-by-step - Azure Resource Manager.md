@@ -1358,7 +1358,7 @@ feature.
 
 10.  Click the **ARMHackathon** resource group (or whatever you named your deployment).
 
-    ![Screenshot of the ARMHackathon resource group line item.](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/image94.png  "ARMHackathon resource group")
+     ![Screenshot of the ARMHackathon resource group line item.](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/image94.png  "ARMHackathon resource group")
 
 11. Click **Delete**, and then, confirm by typing in the name of the resource group.
 
