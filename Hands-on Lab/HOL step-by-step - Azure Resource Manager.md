@@ -815,9 +815,9 @@ the roles.
 
 21.  In the paramters section of the JSON outline, delete _artifactsLocation and _artifactsLocationSasToken:
 
-    ![Delete artifactsLocation](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/image52.png/artifactslocation.png)
+     ![Delete artifactsLocation](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/artifactslocation.png)
 
-    ![Delete artifactsLocationSasToken](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/image52.png/artifactsLocationsastoken.png) 
+     ![Delete artifactsLocationSasToken](images/Hands-onlabstep-by-step-AzureResourceManagerimages/media/artifactslocationsastoken.png) 
 
 22. Save your changes to the **azuredeploy.json** template file.
 
